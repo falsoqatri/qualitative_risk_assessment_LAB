@@ -1,0 +1,6 @@
+Hacker attack, 8
+Malware infection, 5
+Insider threat, 7
+Physical theft, 3
+Natural Threat, 4
+System failure, 4

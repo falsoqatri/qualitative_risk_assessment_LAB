@@ -1,0 +1,6 @@
+Computers, 25000
+Network devices, 15000
+Customers Databases, 35000
+Confidential Data, 25000
+Production system, 25000
+Financial system, 40000
