@@ -18,7 +18,7 @@ This code reads the asset values and threat levels from two text files (asset_va
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 You can customize the text files to match your own data format, and adjust the code accordingly. Additionally, you can add error handling to handle cases where the files are missing or contain invalid data.
 <br />
 
